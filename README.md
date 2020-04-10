@@ -1,5 +1,5 @@
 
-The following folders contain my solutions for 3 different assignments of the TAU Operating System course 2019. The code was written under Linux os and the commands are applying for Linux kernel only. The programming language is C 
+The following folders contain my solutions for 3 different assignments of the TAU Operating System course 2019. The code was written under Linux os and the commands are applying for Linux kernel only. The programming language is C.
 
 The Assignments
 
